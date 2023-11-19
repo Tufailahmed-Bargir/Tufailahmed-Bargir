@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tufailahmed-bargir&label=Profile%20views&color=0e75b6&style=flat" alt="tufailahmed-bargir" /> </p>
 
-- 🌱 I’m currently learning **MERN stach Development**
+- 🌱 I’m currently learning **MERN stack Development**
 
 - 💬 Ask me about **HTML,CSS,JAVASCRIPT,BOOTSTRAP GIT & GITHUB**
 

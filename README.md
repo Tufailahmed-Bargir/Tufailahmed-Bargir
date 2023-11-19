@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **HTML,CSS,JAVASCRIPT,BOOTSTRAP GIT & GITHUB**
 
-- 📫 How to reach me on linkIn **https://www.linkedin.com/in/tufail-ahmed-bargir-848844230/**
+- 📫 Reach me on linkIn **https://www.linkedin.com/in/tufail-ahmed-bargir-848844230/**
 
  
  

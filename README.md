@@ -39,7 +39,7 @@
 
 <!--- trophy (start) -->
 <h2>💻 Github Contributions </h2>
-<img src="https://raw.githubusercontent.com/0xsaurabhx/0xsaurabhx/output/snake.svg" alt="Snake animation" />
+ 
 </div>
 
 
